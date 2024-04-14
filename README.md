@@ -16,6 +16,6 @@ To run the model, ensure the following dependencies are installed:
 4. The trained model parameters will be saved in a file named best_model.pth. This file is necessary for running the model evaluation and should be located in the same directory as the Jupyter notebook.
 
 # Project Contribution
-Lim Cheng Ee: CNN-LSTM approach
-Javin Eng: GRU approach
+Lim Cheng Ee: CNN-LSTM approach<br>
+Javin Eng: GRU approach<br>
 Shwetha Iyer: NN approach, data pre-processing
