@@ -2,12 +2,12 @@
 
 To run the model, ensure the following dependencies are installed:
 
-Python 3.6 or later
-torch: Deep learning library to create the CNN-LSTM model.
-pandas: For CSV file manipulation.
-scikit-learn: For data scaling and splitting.
-torchmetrics: For evaluating the model with metrics like Accuracy, Precision, Recall, and F1 Score.
-matplotlib : For plotting 
+* Python 3.6 or later
+* torch: Deep learning library to create the CNN-LSTM model.
+* pandas: For CSV file manipulation.
+* scikit-learn: For data scaling and splitting.
+* torchmetrics: For evaluating the model with metrics like Accuracy, Precision, Recall, and F1 Score.
+* matplotlib : For plotting 
 
 # Run Model
 1. Navigate to LSTM.ipynb and open it.
